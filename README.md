@@ -75,10 +75,8 @@ Prerequisites: **Node.js** and **Python 3** installed.
     ```
     *This will launch the Vite server and the Electron window simultaneously.*
 
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements.
-
-## 📝 License
+## 🤝 Contribution & License
 
 This project is licensed under the [MIT License](LICENSE).
+
+Contributions are welcome! Feel free to open issues or submit pull requests to improve the codebase.
